@@ -1,4 +1,4 @@
 Streamers
 =========
 
-** TODO: Add description **
+http://www.pluralsight.com/courses/meet-elixir
